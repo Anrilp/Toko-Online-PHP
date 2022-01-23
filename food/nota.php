@@ -105,8 +105,8 @@ include 'admin/dbconnect.php';
                     <div class="alert alert-info">
                         <p>
                             <strong>Silahkan melakukan pembayaran Rp. <?php echo number_format($detail['total_pembelian'], '0', ',', '.'); ?></strong> ke <br>
-                            <strong>Untuk Trasfer Bank :Mandiri 137-001088-3276 Anril Pratama</strong><br>
-                            <strong>Untuk OVO : 081933826600</strong><br><br>
+                            <strong>Untuk Trasfer Bank :Mandiri </strong><br>
+                            <strong></strong><br><br>
                             <strong>Silahkan Upload Bukti Pembayaran pada menu <a href="riwayat.php">riwayat belanja</a> dan pilih menu pemesanan yang telah dipesan kemudian tekan pembayaran</strong><br>
                         </p>
                     </div>

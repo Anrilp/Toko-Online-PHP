@@ -29,8 +29,8 @@
          Open : Senin - Kamis<br>
          Pukul : 09.00 - 18.00
      </p>
-     <p>Hubungi kami :<i class="fa fa-whatsapp"></i> 081933826600</p>
-     <p>Alamat : <i class="fa fa-map-marker"></i> JL. Raya Citayam Permata Depok Berlian 1 D2/23</p>
+     <p>Hubungi kami :<i class="fa fa-whatsapp"></i> </p>
+     <p>Alamat : <i class="fa fa-map-marker"></i> </p>
      <p>Made With <i class="fa fa-heart-o"></i> by Teras Bu Nunung</p>
 
  </section>
